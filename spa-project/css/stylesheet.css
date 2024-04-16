@@ -1,0 +1,60 @@
+a {
+    text-decoration: none;
+    color: inherit;
+    outline: 0;
+}
+
+
+#anchors {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+#buttonContainer {
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 20%;
+}
+
+img {
+    width: 100%;
+    
+}
+
+#homeImg{
+    height: 100svh;
+    width: 100svw;
+}
+
+nav {
+    color: white;
+    background-color: red;
+}
+
+.image {
+    width: 15%;
+}
+
+#container {
+    align-items: center;
+}
+
+#joca {
+    width: 31svw;
+    margin-bottom: 4px;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+#type {
+    width: 31svw;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+
