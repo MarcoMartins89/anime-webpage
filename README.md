@@ -11,8 +11,8 @@ It aims to provide users with an interactive web page where they can navigate di
 ## Features
 
 - **Previous and Next Button**: Located in the bottom of the page, it's meant for changing the page content, adding more anime or manga information.
-- **Headers**: An easy way to go directly to what the user wants, either to anime, manga or about us info, or simply to return to the home page.
-- **Filter**: To sort by genre and by type, to make it easy, for the user to find what best suits its needs, and make the navigation more user friendly.
+- **Headers**: An easy way to go directly to what the user wants, either to anime, manga, genre or about info, or simply to return to the home page.
+- **Filter**: Located in the genre view, to sort by genre and by type, to make it easy, for the user to find what best suits its needs, and make the navigation more user friendly.
 
 ## Technologies Used
 
